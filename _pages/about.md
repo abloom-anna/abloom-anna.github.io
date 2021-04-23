@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal webpage will soon be updated!"
+title: "If this works then use _pages about.md"
 excerpt: "About me"
 author_profile: true
 redirect_from:
