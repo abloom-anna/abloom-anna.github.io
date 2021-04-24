@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "If this works then use _pages about.md - does this chane anything?"
+title: "Wir vergeben dir voller Stolz den Titel:
+Anna - Die Meisterpuzzlerin"
 excerpt: "About me"
 author_profile: true
 redirect_from:
